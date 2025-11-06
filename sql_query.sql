@@ -1,0 +1,1 @@
+select * from workspace.default.titanic_sample limit 10;
