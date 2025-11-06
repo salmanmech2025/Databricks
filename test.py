@@ -1,2 +1,2 @@
 print("Hello World")
-print("Connecting to Github")
+print("Connecting to GitHub account")
